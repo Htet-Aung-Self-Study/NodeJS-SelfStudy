@@ -1,0 +1,19 @@
+{
+  "name": "nodejs-selfstudy",
+  "version": "1.0.0",
+  "description": "A testing ground for me to play around with whatever node.js packages that I am interested in",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Htet-Aung-Self-Study/NodeJS-SelfStudy.git"
+  },
+  "author": "Htet Aung Hlaing",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Htet-Aung-Self-Study/NodeJS-SelfStudy/issues"
+  },
+  "homepage": "https://github.com/Htet-Aung-Self-Study/NodeJS-SelfStudy#readme"
+}
